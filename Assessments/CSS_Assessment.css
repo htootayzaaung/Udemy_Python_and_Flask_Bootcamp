@@ -1,0 +1,40 @@
+body
+{
+  background-color: #b0c4de;
+}
+
+h1
+{
+  border: 1px solid black;
+  text-align: center;
+}
+
+h2
+{
+  color: purple;
+}
+
+input
+{
+  border-color: darkblue;
+  border-style: solid;
+  border-width: 2px;
+}
+
+#textblock
+{
+  border: 5px solid gray;
+  width: 800px;
+  height: 400px;
+}
+
+a
+{
+  color:red;
+}
+
+body
+{
+  font-family: 'Calligraffitti', cursive;
+  font-size: 20px;
+}

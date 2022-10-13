@@ -1,0 +1,20 @@
+____________
+What is CSS?
+____________
+
+CSS stands for cascading style sheets, and it's a stylesheet language used for
+describing the presentation of a document written in HTML.
+
+_CSS allows us to change style attributes of HTML elements such as colour,
+background, borders.
+
+_We need to create a .css file to do this!
+
+_______________
+How to use CSS?
+_______________
+
+_Create a CSS Steps
+_Uses CSS syntax to link element tags
+_Add style attribute name-value pairs
+_Connect CSS to HTML

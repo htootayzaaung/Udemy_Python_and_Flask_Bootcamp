@@ -1,0 +1,17 @@
+/* body
+{
+  background: url(https://dynamicwallpaper.club/landing-vids/1.png);
+  background-repeat: no-repeat;
+} */
+
+div
+{
+  background: turquoise;
+  border:pruple 2px dotted;
+}
+
+span
+{
+  background: red;
+  color: black;
+}
