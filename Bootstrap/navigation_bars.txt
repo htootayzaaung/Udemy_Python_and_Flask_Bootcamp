@@ -1,0 +1,17 @@
+_______________
+Navigation bars
+_______________
+
+_Navigation Bars present on almost all major websites.
+
+_They allow us to quickly link to other pages on our web applications.
+
+_We can create a "navbar" through the <nav> html tag.
+
+_Bootstrap classes can then be added to the <nav> element to add styling and
+function,
+
+_Bootstrap also allows for the easy creation of "collapsing" navbars.
+
+_This means that the "navbar" will adjust to smaller screen sizes with a drop
+down menu.
