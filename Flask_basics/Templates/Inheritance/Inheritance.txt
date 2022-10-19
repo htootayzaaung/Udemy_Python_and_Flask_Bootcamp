@@ -1,0 +1,46 @@
+____________________
+Template Inheritance
+____________________
+
+_We know we can create view functions that directly link to an HTML template.
+
+_But that still means we need to make an HTML template for every page.
+
+_Usually pages across a web application share a lot of features (eg. navigation
+bar, footer and etc..)
+
+_In a nutshell, we set up a base.html template file with the re-usable aspects
+of our site.
+
+_Then we use {% extend "base.html" %} and {% block %} statements to extend these
+re-usable aspects to other pages.
+
+_________
+base.html
+_________
+
+________________________________________________________________________________
+{% block content %}
+
+..........
+..........
+..........
+
+{% endblock %}
+________________________________________________________________________________
+
+_________
+home.html
+_________
+
+________________________________________________________________________________
+{% extends "base.html"}
+
+{% block content %}
+
+..........
+..........
+..........
+
+{% endblock %}
+________________________________________________________________________________
