@@ -1,0 +1,12 @@
+"""
+"Decorators" "@" are used when you want to add new capabilities to the 
+function.
+
+There are 2 options:
+
+_Add the extra code (functionality) to your old function.
+
+_Create a brand new function that contains the old code, and then
+add new code to that.
+"""
+
